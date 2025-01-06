@@ -26,7 +26,7 @@ const wf = workflow({
   `,
   output: `
     A revised version of the original text followed by a list of changes.
- `,
+  `,
 });
 
 console.log(solution(await teamwork(wf)));
