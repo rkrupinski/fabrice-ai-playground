@@ -1,0 +1,21 @@
+{
+  "name": "ai-search-results",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fabrice-ai": "0.5.2"
+  },
+  "devDependencies": {
+    "@rkrupinski/prettierconfig": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "tsx": "^4.19.2"
+  },
+  "prettier": "@rkrupinski/prettierconfig"
+}
